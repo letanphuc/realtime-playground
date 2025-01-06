@@ -1,0 +1,5 @@
+port: 7880
+api_key: "api_key"
+api_secret: "api_secret"
+node_selector:
+  kind: any
